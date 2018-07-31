@@ -1,4 +1,4 @@
-Welcome to the [StudyKeep](https://studykeep.com) wiki for effective learning!
+Welcome to the wiki for effective learning!
 
 
 # Effective Learn Methods
